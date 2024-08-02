@@ -17,12 +17,6 @@ Este é um projeto capaz de detectar qual é o idioma de um texto, sendo treinad
 - Jupyter Notebook (executado pelo Jupyter Lab, no Ubuntu)
 
 ## Instruções para Execução
-
-## Opção 1: 
-Executar pelo google colab, no link a seguir: https://drive.google.com/file/d/1L8qFhwmMdywBy4R3wgmGd7fJZu6i8vte/view?usp=sharing
-
-## Opção 2:
-
 1. Clone este repositório:
 
     ```bash
@@ -36,9 +30,12 @@ Executar pelo google colab, no link a seguir: https://drive.google.com/file/d/1L
     pip install pandas numpy scikit-learn jupyterlab
     ```
     
-3. Abra o Jupyter Lab e selecione a pasta `indenticar_idioma`:
+3. Dentro da pasta `identificador_idioma` digite para abrir:
+   ```
+   jupyter notebook
+   ```
 
-4. No Jupyter Lab, abra o arquivo `indenticar_idioma.ipynb`.
+5. No Jupyter, abra o arquivo `indenticar_idioma.ipynb`.
 
 ## Uso
 
