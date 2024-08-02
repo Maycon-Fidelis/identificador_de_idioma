@@ -18,6 +18,11 @@ Este é um projeto capaz de detectar qual é o idioma de um texto, sendo treinad
 
 ## Instruções para Execução
 
+## Opção 1: 
+Executar pelo google colab, no link a seguir: https://drive.google.com/file/d/1L8qFhwmMdywBy4R3wgmGd7fJZu6i8vte/view?usp=sharing
+
+## Opção 2:
+
 1. Clone este repositório:
 
     ```bash
