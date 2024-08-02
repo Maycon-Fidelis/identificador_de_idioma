@@ -14,7 +14,7 @@ Este é um projeto capaz de detectar qual é o idioma de um texto, sendo treinad
 - Pandas
 - NumPy
 - Scikit-learn
-- Jupyter Notebook (executado pelo Jupyter Lab, no Ubuntu)
+- Jupyter Notebook
 
 ## Instruções para Execução
 1. Clone este repositório:
@@ -30,7 +30,7 @@ Este é um projeto capaz de detectar qual é o idioma de um texto, sendo treinad
     pip install pandas numpy scikit-learn jupyterlab
     ```
     
-3. Dentro da pasta `identificador_idioma` digite para abrir:
+3. Dentro da pasta `identificar_idioma`, digite o comando para abrir o Jupyter Notebook no navegador:
    ```
    jupyter notebook
    ```
