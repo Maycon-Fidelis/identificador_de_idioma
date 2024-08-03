@@ -20,7 +20,7 @@ Este é um projeto capaz de detectar qual é o idioma de um texto, sendo treinad
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/Maycon-Fidelis/indenticar_idioma.git
+    git clone https://github.com/Maycon-Fidelis/identificador_de_idioma.git
     cd indenticar_idioma
     ```
 
@@ -30,7 +30,7 @@ Este é um projeto capaz de detectar qual é o idioma de um texto, sendo treinad
     pip install pandas numpy scikit-learn jupyterlab
     ```
     
-3. Dentro da pasta `identificar_idioma`, digite o comando para abrir o Jupyter Notebook no navegador:
+3. Dentro da pasta `identificador_de_idioma`, digite o comando para abrir o Jupyter Notebook no navegador:
    ```
    jupyter notebook
    ```
