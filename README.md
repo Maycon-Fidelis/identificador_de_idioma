@@ -21,7 +21,7 @@ Este é um projeto capaz de detectar qual é o idioma de um texto, sendo treinad
 
     ```bash
     git clone https://github.com/Maycon-Fidelis/identificador_de_idioma.git
-    cd indenticar_idioma
+    cd identificador_de_idioma
     ```
 
 2. Instale as dependências (se ainda não estiverem instaladas):
